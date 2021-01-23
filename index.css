@@ -96,17 +96,18 @@ button:nth-of-type(3){
 }
  .left  { 
    /* margin-left: 15%; */
-  width: 30%;
+  width: 35%;
    /* height: 220px;  */
    margin-left: 10%;
-    /* border: 2px solid red;  */
+      /* border: 2px solid red;  */
   justify-content: right;
 }
 
 .left img {
   border-radius: 50%;
   height: 175px;
-   padding-left: 10%;  
+   padding-left: 10%; 
+   padding-right: 10%; 
   justify-self: right;
   /* justify-content: right; */
 }
